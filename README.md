@@ -156,7 +156,7 @@ A collection of deep learning concepts implemented from scratch using Python.
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaviyasree27&theme=github-dark-blue"/>
 
 </p>
 
@@ -166,7 +166,7 @@ A collection of deep learning concepts implemented from scratch using Python.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaviyasree27&theme=github-dark"/>
 
 </p>
 
@@ -176,7 +176,7 @@ A collection of deep learning concepts implemented from scratch using Python.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Kaviyasree27&theme=algolia&no-frame=true&margin-w=15"/>
 
 </p>
 
