@@ -149,7 +149,7 @@ Implemented
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaviyasree27&theme=github-dark"/>
 </p>
 
 ---
@@ -157,7 +157,7 @@ Implemented
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
+<img src="https://raw.githubusercontent.com/Kaviyasree27/Kaviyasree27/output/github-contribution-grid-snake-dark.svg">
 </p>
 
 ---
