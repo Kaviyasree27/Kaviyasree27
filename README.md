@@ -1,187 +1,172 @@
-<h1 align="center">Hi, I'm Kaviya Sree R S 👋</h1>
+<h1 align="center">Hi 👋, I'm Kaviya Sree</h1>
+<h3 align="center">Aspiring AI & Machine Learning Engineer | AWS Certified AI Practitioner</h3>
 
 <p align="center">
-AI & Machine Learning Engineer • AWS Certified AI Practitioner • Full Stack Developer
-</p>
-
-<p align="center">
-Building intelligent applications with Machine Learning, Deep Learning, Cloud, and Generative AI.
+  Passionate about building intelligent applications using Machine Learning, Deep Learning, Computer Vision, NLP, and Cloud Technologies.
 </p>
 
 ---
 
-## About Me
+## 🚀 About Me
 
-```yaml
-Name: Kaviya Sree R S
-
-Role:
-  AI & Machine Learning Engineer
-
-Location:
-  Coimbatore, Tamil Nadu, India
-
-Currently Learning:
-  - Deep Learning
-  - Large Language Models (LLMs)
-  - Retrieval-Augmented Generation (RAG)
-  - AWS Cloud Services
-  - MLOps
-
-Interests:
-  - Artificial Intelligence
-  - Machine Learning
-  - Computer Vision
-  - Generative AI
-  - Full Stack Development
-
-Mission:
-  Building AI solutions that solve real-world problems through scalable,
-  efficient and user-friendly applications.
-```
+- 🎓 B.Tech Student
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- ☁️ AWS Certified AI Practitioner
+- 🌱 Currently learning Deep Learning, Generative AI, and MLOps
+- 💡 Passionate about solving real-world problems with AI
+- 📫 Reach me at: **your_email@gmail.com**
 
 ---
 
-## Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
-
-<a href="https://www.linkedin.com/in/kaviya-sree-rs-2a9915290/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="mailto:kaviyasree.tech@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
-<a href="https://leetcode.com/u/kaviyasree27/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<a href="YOUR_LEETCODE">
+<img src="https://cdn.simpleicons.org/leetcode" height="45"/>
 </a>
-
-
 </p>
 
 ---
 
-# Technical Skills
+# 💻 Tech Stack
 
 ### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
----
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql" />
+</p>
 
 ### Artificial Intelligence & Machine Learning
 
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge)
-![Natural Language Processing](https://img.shields.io/badge/NLP-00A67E?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-0A66C2?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
----
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch" />
+</p>
+
+**Libraries & Frameworks**
+
+- Scikit-Learn
+- Pandas
+- NumPy
+- LangChain
+- FAISS
+- NLP
+- Deep Learning
 
 ### Web Development
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+<img src="https://skillicons.dev/icons?i=react,flask,html,css,js" />
+</p>
+
+### Cloud & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,docker" />
+</p>
 
 ---
 
-### Cloud & DevOps
+# 📂 Featured Projects
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+### 🧠 NeuralDoc — Multimodal RAG
 
----
-
-# Featured Projects
-
-### NeuralDoc — Multimodal RAG
-
-AI-powered document intelligence platform using OCR, LangChain, FAISS, and Large Language Models.
+- Multimodal Retrieval-Augmented Generation System
+- OCR + PDF + Images + FAISS + LangChain
+- Groq LLM Integration
 
 ---
 
-### Discovery Agent
+### 🎥 Suspect Search and Investigation System
 
-Enterprise AI agent capable of discovering software ecosystems from business documents.
-
----
-
-### Fashion Recommendation System
-
-Image-based recommendation engine using Deep Learning and ResNet50.
+- CCTV Frame Analysis
+- Object & Person Detection
+- Intelligent Suspect Search
+- Evidence Generation
 
 ---
 
-### LifeSaver
+### 🩸 LifeSaver
 
-Blood Donation Mobile Application developed using Flutter and FastAPI.
+Blood Donation Mobile Application
+
+- Flutter
+- FastAPI
+- SQLite
+- SQLAlchemy
 
 ---
 
-### Deep Learning From Scratch
+### 🧠 Deep Learning From Scratch
 
-A collection of deep learning concepts implemented from scratch using Python.
+Implemented
+
+- Artificial Neurons
+- Activation Functions
+- Gradient Descent
+- Backpropagation
+- Optimizers
+- ANN
+- CNN
+- MNIST Classification
 
 ---
 
-# GitHub Analytics
+# 🏆 Certifications
+
+- 🏅 AWS Certified AI Practitioner
+- 🏅 AWS Academy Cloud Foundations
+- 🏅 Scaler - Object Oriented Programming in Java
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# GitHub Streak
+# 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaviyasree27&theme=github-dark-blue"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark"/>
 </p>
 
 ---
 
-# Contribution Graph
+# 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaviyasree27&theme=github-dark"/>
-
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
 </p>
 
 ---
 
-# GitHub Trophies
+## 💬 Quote
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kaviyasree27&theme=algolia&no-frame=true&margin-w=15"/>
-
-</p>
+> "Learning never exhausts the mind. It only ignites new possibilities."
 
 ---
 
 <p align="center">
-
-*"Learning never stops. Every project is an opportunity to build something impactful."*
-
+⭐ Thanks for visiting my profile! ⭐
 </p>
