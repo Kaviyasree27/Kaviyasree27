@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaviya Sree</h1>
+
 <h3 align="center">Aspiring AI & Machine Learning Engineer | AWS Certified AI Practitioner</h3>
 
 <p align="center">
@@ -12,20 +13,20 @@
 - 🎓 B.Tech Student
 - 🤖 Interested in Artificial Intelligence & Machine Learning
 - ☁️ AWS Certified AI Practitioner
-- 🌱 Currently learning Deep Learning, Generative AI, and MLOps
+- 🌱 Currently learning Deep Learning, Generative AI, 
 - 💡 Passionate about solving real-world problems with AI
-- 📫 Reach me at: **your_email@gmail.com**
+- 📫 Reach me at: **kaviyasree.tech@gmail.com**
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="YOUR_LINKEDIN">
+<a href="[YOUR_LINKEDIN](https://www.linkedin.com/in/kaviya-sree-rs-2a9915290/)">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:kaviyasree.tech@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
