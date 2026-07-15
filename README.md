@@ -19,6 +19,12 @@
 
 ---
 
+# 🏆 Certifications
+
+- 🏅 [![AWS Certified AI Practitioner](https://www.credly.com/badges/25804054-8bcf-4f7c-821942cd8dca4948)
+- 🏅 AWS Academy Cloud Foundations
+- 🏅 Scaler - Object Oriented Programming in Java
+
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -85,14 +91,7 @@
 
 ---
 
-### 🎥 Suspect Search and Investigation System
 
-- CCTV Frame Analysis
-- Object & Person Detection
-- Intelligent Suspect Search
-- Evidence Generation
-
----
 
 ### 🩸 LifeSaver
 
@@ -120,13 +119,7 @@ Implemented
 
 ---
 
-# 🏆 Certifications
 
-- 🏅 AWS Certified AI Practitioner
-- 🏅 AWS Academy Cloud Foundations
-- 🏅 Scaler - Object Oriented Programming in Java
-
----
 
 # 📊 GitHub Statistics
 
