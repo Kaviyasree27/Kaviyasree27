@@ -21,7 +21,7 @@
 
 # 🏆 Certifications
 
-- 🏅 [![AWS Certified AI Practitioner](https://www.credly.com/badges/25804054-8bcf-4f7c-821942cd8dca4948)
+- 🏅 [![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS-Certified%20AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/25804054-8bcf-4f7c-821942cd8dca4948)
 - 🏅 AWS Academy Cloud Foundations
 - 🏅 Scaler - Object Oriented Programming in Java
 
