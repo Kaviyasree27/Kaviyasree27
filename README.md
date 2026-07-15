@@ -23,12 +23,12 @@
 
 - 🏅 [![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS-Certified%20AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/25804054-8bcf-4f7c-821942cd8dca4948)
 - 🏅 AWS Academy Cloud Foundations
-- 🏅 Scaler - Object Oriented Programming in Java
+  
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="[YOUR_LINKEDIN](https://www.linkedin.com/in/kaviya-sree-rs-2a9915290/)">
+<a href="(https://www.linkedin.com/in/kaviya-sree-rs-2a9915290/)">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
@@ -36,7 +36,7 @@
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
-<a href="Kaviyasree27">
+<a href="kaviyasree27">
 <img src="https://cdn.simpleicons.org/leetcode" height="45"/>
 </a>
 </p>
