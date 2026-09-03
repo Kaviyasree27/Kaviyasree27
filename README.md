@@ -36,7 +36,7 @@
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
-<p>
+<p align="left">
   <a href="https://leetcode.com/u/kaviyasree27/">
     <img src="https://cdn.simpleicons.org/leetcode" height="45"/>
   </a>
