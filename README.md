@@ -36,10 +36,10 @@
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
-<a href="kaviyasree27">
-<img src="https://cdn.simpleicons.org/leetcode" height="45"/>
-<a href="https://leetcode.com/u/kaviyasree27/">
-</a>
+<p>
+  <a href="https://leetcode.com/u/kaviyasree27/">
+    <img src="https://cdn.simpleicons.org/leetcode" height="45"/>
+  </a>
 </p>
 
 ---
