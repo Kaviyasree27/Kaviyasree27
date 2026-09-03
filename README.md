@@ -28,18 +28,19 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="(https://www.linkedin.com/in/kaviya-sree-rs-2a9915290/)">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+
+<a href="https://www.linkedin.com/in/kaviya-sree-rs-2a9915290/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
 <a href="mailto:kaviyasree.tech@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+  <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
-<p align="left">
-  <a href="https://leetcode.com/u/kaviyasree27/">
-    <img src="https://cdn.simpleicons.org/leetcode" height="45"/>
-  </a>
+<a href="https://leetcode.com/u/kaviyasree27/">
+  <img src="https://cdn.simpleicons.org/leetcode" height="45"/>
+</a>
+
 </p>
 
 ---
